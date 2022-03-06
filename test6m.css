@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: rgb(141, 149, 158);
+}
+#header{
+ 
+    text-align: center;
+    background-color: rgb(114, 114, 114);
+    color: bisque;
+    padding-top: 1em;
+    padding-bottom: 1.5em;   
+}
+#menu{
+  
+    text-align: center;
+    color: white
+    
+}
+th{
+    text-align: center;
+    width: 23%;
+    height: 50px;
+    color: white;
+    
+}
+
+#content1{
+    height: 300px;
+    width: 70%;
+    background-color: white;
+    float: left;
+}
+table{
+    border-collapse: collapse;
+}
+#content2{
+    float: right;
+    height: 300px;
+    width: 30%;
+    background-color:rgb(241, 209, 209);
+}
+a {
+    text-decoration: none;
+}
+#footer{
+    height: 5vh;
+    text-align: center;
+}
